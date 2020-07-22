@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Dead
+comment0.text=\r\n\ A\ Dead\ Bug\ ...\ Actually\ a\ skull.\ Starts\ off\ opaque\ and\ slowly\ turns\ transparent,\r\n\ and\ then\ eventually\ removes\ itself\ from\ the\ World.\r\n
+comment1.params=
+comment1.target=Dead()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

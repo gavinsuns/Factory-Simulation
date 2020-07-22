@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Nuke
+comment0.text=\r\n\ A\ nuke\ that\ can\ be\ spawned,\ built,\ and\ have\ it's\ image\ changed.\r\n\ Image\ taken\ from\:\ https\://www.pngtube.com/viewm/bTxmhh_nuclear-bomb-the-atomic-bomb-bomb-png-image/\r\n\ Sound\ taken\ from\:\ https\://www.youtube.com/watch?v\=8ysc2quRx1M\r\n\ \r\n\ @author\ Carl\ Lam\r\n\ @version\ October\ 2019\r\n
+comment1.params=
+comment1.target=Nuke()
+comment1.text=\r\n\ Initilalizes\ image\ and\ X\ limit\ for\ nuke\ on\ initial\ spawn.\r\n
+comment2.params=
+comment2.target=void\ updateImage()
+comment2.text=\r\n\ Updates\ the\ image\ of\ nuke\ based\ on\ its\ current\ stage.\r\n
+comment3.params=
+comment3.target=void\ edgeCheck()
+comment3.text=\r\n\ Checks\ if\ the\ object\ has\ reached\ the\ edge\ of\ the\ map,\ and\ deletes\ if\ it\ is.\r\n
+comment4.params=
+comment4.target=void\ buildSound()
+numComments=5
