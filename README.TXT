@@ -1,12 +1,7 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Factory-Simulation
+PURPOSE OF PROJECT: Make a working simulation in greenfoot
+VERSION or DATE: Final
+HOW TO START THIS PROJECT: Open file in greenfoot and click run
+AUTHORS: Gavin Sun, James Lu, Anson Chan, Carl Lam, Andrew Zhang
